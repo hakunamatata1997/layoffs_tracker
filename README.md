@@ -8,6 +8,9 @@ Tracking the tech layoffs reported on the following platforms:
 - TechCrunch
 - The New York Times
 
+
+## I have created a visualization to track all the layoffs : https://hakunamatata1997.github.io/layoffs_tracker/ 
+
 The data availability is from when COVID-19 was declared as a pandemic i.e. **11 March 2020** to present (**23 November 2022**).  
 Some data such as the sources, list of employees and date of addition has been omitted here and the complete data can be found on [Layoffs.fyi](https://layoffs.fyi/).
 
