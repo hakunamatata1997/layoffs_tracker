@@ -14,4 +14,4 @@ Originally data is sourced from different platforms:
 
 
 
-Credits: [Roger Lee](https://www.rogerlee.com/)
+Credits for data collection: [Roger Lee](https://www.rogerlee.com/)
