@@ -1,4 +1,79 @@
 Company,Location,Industry,Laid_Off_Count,Percentage,Date,Source,Funds_Raised,Stage,Date_Added,Country,List_of_Employees_Laid_Off
+TuSimple,San Diego,Transportation,350,0.25,2022-12-21,https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/,648.0,IPO,2022-12-18 04:12:29,United States,Unknown
+Lendis,Berlin,Other,,0.5,2022-12-21,https://www.linkedin.com/posts/s-papadopoulos_today-we-have-to-share-sad-news-we-made-activity-7009106413499080704-u1gl/,90.0,Series A,2022-12-21 17:05:05,Germany,Unknown
+Briza,Toronto,Finance,26,0.4,2022-12-20,https://betakit.com/ceo-of-briza-steps-down-as-insurtech-startup-cuts-close-to-half-of-its-staff/,10.0,Series A,2022-12-20 18:43:01,Canada,https://docs.google.com/spreadsheets/d/18ZMnL97fbgyh6E-fy62SEYaZweFXZnEtpVQLBCklDzo/edit#gid=1207064469
+Zhihu,Beijing,Consumer,,0.1,2022-12-20,https://pandaily.com/chinese-qa-platform-zhihu-begins-layoffs/,892.0,Series F,2022-12-21 17:06:02,China,Unknown
+Health IQ,SF Bay Area,Healthcare,,,2022-12-19,https://www.coverager.com/layoffs-at-health-iq/,136.0,Series D,2022-12-24 04:15:01,United States,Unknown
+Xiaomi,Beijing,Consumer,,,2022-12-19,https://technode.com/2022/12/19/chinese-phone-maker-xiaomi-begins-large-scale-layoffs-report/,7400.0,IPO,2022-12-19 16:46:32,United States,Unknown
+Tomorrow,Hamburg,Finance,30,0.25,2022-12-16,https://www.businessinsider.de/gruenderszene/fintech/tomorrow-kundigt-viertel-seines-teams/,29.0,Unknown,2022-12-18 04:15:07,Germany,https://docs.google.com/spreadsheets/d/187Gljr0z-E5r8Qro6apSXX2V9t5RToKnRlxY6eJuqzI/edit#gid=0
+Revelate,Montreal,Data,24,0.3,2022-12-16,https://betakit.com/layoffs-persist-at-canadian-tech-companies-amid-bleak-outlook-for-2023/,26.0,Series A,2022-12-19 17:17:13,Canada,Unknown
+ E Inc.,Toronto,Transportation,,,2022-12-16,https://betakit.com/layoffs-persist-at-canadian-tech-companies-amid-bleak-outlook-for-2023/,,IPO,2022-12-19 17:19:15,Canada,Unknown
+Autograph,Los Angeles,Crypto,,,2022-12-16,https://www.businessinsider.com/tom-brady-nft-company-autograph-layoffs-sam-bankman-fried-2022-12,205.0,Series B,2022-12-19 22:13:27,United States,Unknown
+Improbable,London,Other,,0.1,2022-12-16,https://news.sky.com/story/softbank-backed-metaverse-creator-improbable-lays-off-staff-12769306,704.0,Unknown,2022-12-18 04:18:22,United Kingdom,Unknown
+Modern Treasury,SF Bay Area,Finance,,0.18,2022-12-16,Internal memo,183.0,Series C,2022-12-21 03:28:48,United States,Unknown
+Reach,Calgary,Retail,,0.12,2022-12-16,https://betakit.com/layoffs-persist-at-canadian-tech-companies-amid-bleak-outlook-for-2023/,30.0,Series A,2022-12-19 17:18:23,Canada,Unknown
+SonderMind,Denver,Healthcare,,0.15,2022-12-16,https://www.bizjournals.com/denver/news/2022/12/16/sondermind-layoffs.html,183.0,Series C,2022-12-18 04:19:22,United States,Unknown
+Freshworks,SF Bay Area,Support,90,0.02,2022-12-15,https://inc42.com/buzz/facing-macroeconomic-headwinds-freshworks-trims-nearly-2-workforce/,484.0,IPO,2022-12-15 16:21:46,United States,Unknown
+Apollo,SF Bay Area,Product,,0.15,2022-12-15,https://www.apollographql.com/blog/announcement/ceo-geoff-schmidts-message-to-apollo-employees/,183.0,Series D,2022-12-15 22:45:15,United States,Unknown
+BigCommerce,Austin,Retail,,0.13,2022-12-15,https://www.marketwatch.com/story/bigcommerce-to-lay-off-13-of-workforce-271671103074,224.0,IPO,2022-12-15 16:20:44,United States,Unknown
+JD.ID,Jakarta,Retail,200,0.3,2022-12-14,https://jakartaglobe.id/business/jdid-layoffs-reflect-struggles-in-indonesian-startup-industry,5100.0,IPO,2022-12-15 02:19:38,Indonesia,Unknown
+GoStudent,Vienna,Education,100,,2022-12-14,https://www.businessinsider.com/gostudent-3-billion-edtech-startup-begins-fresh-round-of-layoffs-2022-12,686.0,Series D,2022-12-15 02:11:42,Austria,Unknown
+Quanergy Systems,SF Bay Area,Transportation,72,,2022-12-14,https://www.bizjournals.com/sanjose/news/2022/12/14/quanergy-to-cut-72-jobs-in-sunnyvale.html,175.0,IPO,2022-12-15 22:44:33,United States,Unknown
+Headspace,Los Angeles,Healthcare,50,0.04,2022-12-14,https://www.bloomberg.com/news/articles/2022-12-14/meditation-app-headspace-cuts-50-workers-or-4-of-staff,215.0,Unknown,2022-12-15 16:16:00,United States,Unknown
+ChowNow,Los Angeles,Food,40,0.1,2022-12-14,https://www.restaurantbusinessonline.com/amp/technology/chownow-cuts-more-jobs-delivery-demand-levels-out,64.0,Series C,2022-12-15 02:10:04,United States,Unknown
+Landing,Birmingham,Real Estate,,,2022-12-14,https://www.al.com/business/2022/12/birmingham-tech-firm-landing-has-second-round-of-layoffs.html,347.0,Series C,2022-12-15 02:10:48,United States,Unknown
+Thumbtack,SF Bay Area,Consumer,160,0.14,2022-12-13,Internal memo,698.0,Series I,2022-12-13 20:12:50,United States,Unknown
+Edgio,Phoenix,Infrastructure,95,0.1,2022-12-13,https://www.marketscreener.com/amp/quote/stock/EDGIO-INC-52799/news/EDGIO-INC-Costs-Associated-with-Exit-or-Disposal-Activities-Change-in-Directors-or-Principal-Of-42549605/,462.0,IPO,2022-12-15 02:14:17,United States,Unknown
+Komodo Health,SF Bay Area,Healthcare,78,0.09,2022-12-13,https://techcrunch.com/2022/12/13/komodo-health-once-tipped-for-a-looming-ipo-has-cut-staff-as-cfo-departs/,514.0,Series E,2022-12-13 20:11:49,United States,Unknown
+Viant,Los Angeles,Marketing,46,0.13,2022-12-13,https://www.businessinsider.com/viant-lay-off-13-percent-of-workforce-2022-12,,IPO,2022-12-21 19:35:29,United States,Unknown
+TaxBit,Salt Lake City,Crypto,,,2022-12-13,https://www.axios.com/local/salt-lake-city/2022/12/15/utah-tech-layoffs-silicon-slopes-losing-workers,235.0,Series B,2022-12-18 04:07:43,United States,Unknown
+Pluralsight,Salt Lake City,Education,400,0.2,2022-12-12,https://www.pluralsight.com/newsroom/press-releases/ceo-aaron-skonnard-email-to-pluralsight,192.0,Acquired,2022-12-12 22:08:18,United States,https://docs.google.com/spreadsheets/d/1l10lFdaYxDWpmJorxd5cml_bBQ0qMhqngZvKEJP5m2o/edit#gid=0
+Freshly,Phoenix,Food,329,,2022-12-12,https://mouthbysouthwest.com/2022/12/12/phoenix-born-freshly-is-laying-off-329-local-workers-in-strategy-shift/,107.0,Acquired,2022-12-14 17:57:42,United States,Unknown
+Balto,St. Louis,Sales,35,,2022-12-12,https://www.bizjournals.com/stlouis/inno/stories/news/2022/12/12/balto-software-layoffs.html,51.0,Series B,2022-12-13 20:08:07,United States,Unknown
+Outschool,SF Bay Area,Education,43,0.25,2022-12-10,https://techcrunch.com/2022/12/10/some-of-edtech-boldest-are-struggling/,240.0,Series D,2022-12-13 20:07:23,United States,Unknown
+Xentral,Munich,Product,20,0.1,2022-12-10,https://www.businessinsider.de/gruenderszene/business/xentral-entlassungen/,94.0,Series B,2022-12-13 20:02:56,Germany,Unknown
+Autobooks,Detroit,Finance,,,2022-12-10,https://www.crainsdetroit.com/technology/fintech-startup-autobooks-lays-workers,97.0,Series C,2022-12-11 03:36:27,United States,Unknown
+Convene,New York City,Real Estate,,,2022-12-10,https://www.linkedin.com/posts/ryan-simonetti-5873887_like-many-companies-weve-had-to-reassess-activity-7007097001259507712-ZpTF/,281.0,Unknown,2022-12-13 20:05:53,United States,Unknown
+PharmEasy,Mumbai,Healthcare,,,2022-12-10,https://inc42.com/buzz/pharmeasy-lays-off-more-employees-amid-funding-crunch/,1600.0,Unknown,2022-12-11 06:25:36,India,Unknown
+Playtika,Tel Aviv,Consumer,600,0.15,2022-12-09,https://en.globes.co.il/en/article-playtika-to-lay-off-600-1001432312,,IPO,2022-12-11 06:01:30,Israel,Unknown
+Share Now,Berlin,Transportation,150,0.36,2022-12-09,https://www.businessinsider.de/gruenderszene/automotive-mobility/carsharing-sharenow-entlassungen-a/,,Acquired,2022-12-13 20:05:00,Germany,Unknown
+Alice,Sao Paulo,Healthcare,113,0.16,2022-12-09,https://startups.com.br/demissoes/alice-faz-nova-onda-de-demissoes-e-dispensa-113-pessoas/,174.0,Series C,2022-12-11 03:31:04,Brazil,Unknown
+Primer,London,Finance,85,0.33,2022-12-09,https://techcrunch.com/2022/12/09/primer-the-uk-e-commerce-tech-startup-has-laid-off-one-third-of-its-staff/,73.0,Series B,2022-12-09 16:37:23,United Kingdom,Unknown
+OneFootball,Berlin,Marketing,62,0.115,2022-12-09,https://company.onefootball.com/news/an-update-from-onefootball-founder-and-ceo-lucas-von-cranach/,442.0,Series D,2022-12-21 00:43:02,Germany,Unknown
+C2FO,Kansas City,Finance,20,0.02,2022-12-09,https://www.bizjournals.com/kansascity/news/2022/12/09/c2fo-layoff-recession-efficiency-profitability.html,537.0,Series H,2022-12-11 05:58:32,United States,Unknown
+Brodmann17,Tel Aviv,Other,,1.0,2022-12-09,https://techcrunch.com/2022/12/09/computer-vision-technology-startup-brodmann17-has-shut-down/,25.0,Series A,2022-12-11 06:17:56,Israel,Unknown
+Digital Surge,Brisbane,Crypto,,1.0,2022-12-09,https://www.9news.com.au/technology/australian-cryptocurrency-exchange-digital-surge-collapses-into-administration/ebbeb40c-6310-4250-b123-600bc6755cc5,,Unknown,2022-12-11 06:09:24,Australia,Unknown
+N-able Technologies,Raleigh,Other,,,2022-12-09,Unknown,225.0,IPO,2022-12-09 22:12:27,United States,Unknown
+ZenLedger,Seattle,Crypto,,0.1,2022-12-09,https://blockworks.co/news/another-crypto-tax-software-startup-is-laying-off-staffers,25.0,Series B,2022-12-11 05:56:55,United States,Unknown
+Airtable,SF Bay Area,Product,254,0.2,2022-12-08,https://techcrunch.com/2022/12/08/airtable-layoffs/,1400.0,Series F,2022-12-08 17:48:07,United States,Unknown
+Swiggy,Bengaluru,Food,250,0.03,2022-12-08,https://inc42.com/buzz/swiggy-fire-250-employees-further-layoffs-store/,3600.0,Unknown,2022-12-09 05:00:53,India,Unknown
+Glints,Singapore,HR,198,0.18,2022-12-08,https://www.techinasia.com/singaporebased-glints-lays-18-employees,82.0,Series D,2022-12-09 05:07:33,Singapore,Unknown
+Buser,Sao Paulo,Transportation,160,0.3,2022-12-08,https://startups.com.br/demissoes/buser-demite-30-para-se-adaptar-a-nova-realidade-do-mercado/,138.0,Series C,2022-12-11 06:00:24,Brazil,https://docs.google.com/spreadsheets/d/1KkOxvPis13EC3MSsFtsGgNIBFv-FFEZ1-p2MTL2IDgY/htmlview
+BlackLine,Los Angeles,Finance,95,0.05,2022-12-08,https://seekingalpha.com/news/3915452-blackline-to-cut-jobs-by-5-globally-sec-filing,220.0,Private Equity,2022-12-11 06:15:28,United States,Unknown
+Otonomo,Tel Aviv,Transportation,80,0.5,2022-12-08,https://www.calcalistech.com/ctechnews/article/bjbvjqyoi,231.0,IPO,2022-12-11 06:07:24,Israel,Unknown
+TechTarget,Boston,Marketing,60,0.05,2022-12-08,https://www.marketwatch.com/story/techtarget-focuses-on-restructuring-plan-cutting-60-positions-271670628385,115.0,IPO,2022-12-11 06:02:55,United States,Unknown
+Inscripta,Boulder,Healthcare,43,,2022-12-08,https://www.genomeweb.com/business-news/inscripta-lays-dozens-closes-colorado-headquarters-san-diego-office#.Y5JvGOzMK8A,459.0,Series E,2022-12-09 05:02:33,United States,Unknown
+CyCognito,SF Bay Area,Security,30,0.15,2022-12-08,https://www.calcalistech.com/ctechnews/article/h1suse100s,153.0,Series C,2022-12-09 05:03:17,United States,Unknown
+Armis,SF Bay Area,Security,25,0.04,2022-12-08,https://www.calcalistech.com/ctechnews/article/by6mtcjuo,537.0,Private Equity,2022-12-11 03:35:08,United States,Unknown
+Bakkt,Atlanta,Crypto,,0.15,2022-12-08,https://bakkt.com/newsroom/a-note-from-gavin-michael-to-bakkt-employees-bakkt,932.0,IPO,2022-12-11 03:37:41,United States,Unknown
+Blue Apron,New York City,Food,,0.1,2022-12-08,https://investors.blueapron.com/press-releases/2022/12-08-2022-140712547,352.0,IPO,2022-12-08 17:06:37,United States,Unknown
+FireHydrant,New York City,Infrastructure,,,2022-12-08,https://www.linkedin.com/posts/bobby-tables_today-weve-made-major-changes-at-firehydrant-activity-7006723101807763456-dU8s/,32.0,Series B,2022-12-11 06:13:18,United States,Unknown
+Nerdy,St. Louis,Education,,0.17,2022-12-08,https://www.bizjournals.com/stlouis/news/2022/12/08/online-tutoring-firm-nerdy-slashes.html,150.0,IPO,2022-12-11 06:08:11,United States,Unknown
+Vanta,SF Bay Area,Security,,0.14,2022-12-08,LinkedIn,203.0,Series B,2022-12-11 03:32:39,United States,Unknown
+Vedantu,Bengaluru,Education,385,,2022-12-07,https://economictimes.indiatimes.com/tech/startups/edtech-firm-vedantu-cuts-385-jobs-in-fourth-round-of-layoffs-this-year/articleshow/96060595.cms,292.0,Series E,2022-12-07 16:28:02,India,Unknown
+Loft,Sao Paulo,Real Estate,312,0.12,2022-12-07,https://www.bloomberglinea.com/english/brazilian-unicorn-loft-sheds-12-of-staff-in-third-wave-of-layoffs-this-year/,788.0,Unknown,2022-12-08 06:26:02,Brazil,Unknown
+Plaid,SF Bay Area,Finance,260,0.2,2022-12-07,https://techcrunch.com/2022/12/07/plaid-layoff-fintech/,734.0,Series D,2022-12-07 16:22:04,United States,https://docs.google.com/spreadsheets/d/1Tqw-IuLmMZJMvKkzH9ouq4ulDp0LEC6azKXtjh9ulpU/edit
+Motive,SF Bay Area,Transportation,237,0.06,2022-12-07,https://gomotive.com/blog/shoaib-makanis-message-to-employees/,567.0,Series F,2022-12-08 06:21:12,United States,https://docs.google.com/spreadsheets/d/e/2PACX-1vT-99jxJLo_tUHWQboamwf6yvRKUh0HCLWLWbjzbkZOWQcRzituc7D7K7wyATgOazFDtcBLSMPiKNWG/pubhtml
+Relativity,Chicago,Legal,150,0.1,2022-12-07,https://www.chicagobusiness.com/technology/software-firm-relativity-cuts-10-staff,125.0,Private Equity,2022-12-08 06:22:20,United States,Unknown
+Voi,Stockholm,Transportation,130,0.13,2022-12-07,https://www.breakit.se/artikel/35283/voi-tvingas-drar-ner-igen-vi-ar-mycket-ledsna,515.0,Series D,2022-12-08 06:24:32,United States,Unknown
+Integral Ad Science,New York City,Marketing,120,0.13,2022-12-07,https://investors.integralads.com/node/7871/html,116.0,Acquired,2022-12-08 06:23:13,United States,Unknown
+Houzz,SF Bay Area,Consumer,95,0.08,2022-12-07,https://en.globes.co.il/en/article-houzz-lays-off-100-in-us-and-israel-1001433310,613.0,Series E,2022-12-21 16:16:58,United States,Unknown
+Grover,Berlin,Retail,40,0.1,2022-12-07,https://www.businessinsider.de/gruenderszene/business/entlassungen-bei-berliner-neu-unicorn-grover/?fbclid=IwAR3o2sB8MmcX3_y8HaAeRqIUU2T8YNYokRDZz5Nxkr0BjzhYRs84fR2hrW8,2300.0,Unknown,2022-12-07 19:18:57,United States,Unknown
+Lev,New York City,Real Estate,30,0.3,2022-12-07,https://therealdeal.com/2022/12/07/cre-finance-platform-lev-lays-off-chunk-of-staff/,114.0,Series B,2022-12-11 06:19:37,United States,Unknown
+Lithic,New York City,Finance,27,0.18,2022-12-07,https://www.axios.com/pro/fintech-deals/2022/12/07/fintech-lithic-lays-off-27,115.0,Series C,2022-12-09 00:46:59,United States,Unknown
+CircleCI,SF Bay Area,Product,,0.17,2022-12-07,https://circleci.com/blog/ceo-jim-rose-email-to-circleci-employees/,315.0,Series F,2022-12-07 21:47:26,United States,https://docs.google.com/spreadsheets/d/1A_1uk6qP_a0C2bwKcvV7G-meypWCgW-giK9O2UG8p_k/edit
+Sayurbox,Jakarta,Food,,0.05,2022-12-07,https://www.techinasia.com/sayurbox-lays-off-2022,139.0,Series C,2022-12-09 05:08:34,Indonesia,Unknown
+Zywave,Milwaukee,Finance,,,2022-12-07,https://www.bizjournals.com/milwaukee/news/2022/12/07/zywave-layoffs-growth-slows.html,,Acquired,2022-12-09 05:09:37,United States,Unknown
 Doma,SF Bay Area,Finance,515,0.4,2022-12-06,https://investor.doma.com/node/8161/html,679.0,IPO,2022-12-07 06:21:36,United States,Unknown
 BuzzFeed,New York City,Media,180,0.12,2022-12-06,https://variety.com/2022/digital/news/buzzfeed-layoffs-12-percent-employees-1235451552/,696.0,IPO,2022-12-06 18:40:43,United States,Unknown
 Weedmaps,Los Angeles,Other,175,0.25,2022-12-06,https://www.businessinsider.com/weedmaps-cannabis-company-layoffs-cutting-workforce-2022-12,,Acquired,2022-12-07 06:29:37,United States,Unknown
@@ -7,14 +82,18 @@ Chipper Cash,SF Bay Area,Finance,50,0.125,2022-12-06,https://techcrunch.com/2022
 Stash,New York City,Finance,32,0.08,2022-12-06,https://lp.stash.com/news/saying-goodbye-to-some-of-our-colleagues-and-looking-towards-the-future/,480.0,Unknown,2022-12-07 02:38:29,United States,Unknown
 Perimeter 81,Tel Aviv,Security,20,0.08,2022-12-06,https://www.calcalistech.com/ctechnews/article/hjgmdpnws,165.0,Series C,2022-12-07 02:35:54,Israel,Unknown
 Koinly,London,Crypto,16,0.14,2022-12-06,https://blockworks.co/news/crypto-tax-startup-koinly-cuts-staffers-just-in-time-for-tax-season,,Unknown,2022-12-07 06:19:29,United Kingdom,Unknown
+Bridgit,Waterloo,Construction,13,0.13,2022-12-06,https://www.therecord.com/news/waterloo-region/2022/12/06/some-startups-scaling-back-as-investment-shrinks.html,36.0,Series B,2022-12-19 16:48:06,Canada,Unknown
+Filevine,Salt Lake City,Legal,,,2022-12-06,https://www.axios.com/local/salt-lake-city/2022/12/15/utah-tech-layoffs-silicon-slopes-losing-workers,226.0,Series D,2022-12-18 04:06:37,United States,Unknown
+Moove,Lagos,Transportation,,,2022-12-06,https://techpoint.africa/2022/12/06/moove-layoffs,630.0,Unknown,2022-12-21 16:58:07,Nigeria,Unknown
 Nextiva,Phoenix,Other,,0.17,2022-12-06,https://www.channelfutures.com/business-models/nextiva-layoffs-impact-17-of-workforce-including-partner-development-leader-hilary-gadda,200.0,Private Equity,2022-12-07 06:32:57,United States,Unknown
 OneStudyTeam,Boston,Healthcare,,0.25,2022-12-06,https://www.mobihealthnews.com/news/onestudyteam-lays-about-quarter-its-workforce,479.0,Series D,2022-12-07 06:37:12,United States,Unknown
 Zuora,SF Bay Area,Finance,,0.11,2022-12-06,https://www.morningstar.com/news/marketwatch/20221206496/zuora-beats-on-earnings-but-misses-on-outlook-while-announcing-layoffs,647.0,IPO,2022-12-07 06:26:48,United States,Unknown
 Swyftx,Brisbane,Crypto,90,0.4,2022-12-05,https://www.smh.com.au/business/companies/worst-case-scenario-local-crypto-exchange-swyftx-lays-off-40-percent-of-staff-20221205-p5c3mu.html,,Unknown,2022-12-05 13:26:15,Australia,Unknown
-Aqua,Boston,Security,65,0.1,2022-12-05,https://www.calcalistech.com/ctechnews/article/s1uxohjvs,265.0,Series E,2022-12-06 18:42:03,United States,Unknown
+Aqua Security,Boston,Security,65,0.1,2022-12-05,https://www.calcalistech.com/ctechnews/article/s1uxohjvs,265.0,Series E,2022-12-06 18:42:03,United States,Unknown
 DataRails,Tel Aviv,Unknown,30,0.18,2022-12-05,https://www.calcalistech.com/ctechnews/article/s1ka1tjvj,103.0,Series B,2022-12-06 00:41:03,Israel,Unknown
 Elemy,SF Bay Area,Healthcare,,,2022-12-05,https://bhbusiness.com/2022/12/05/elemy-lays-off-staff-as-it-winds-down-direct-care-for-platform-business/,323.0,Series B,2022-12-06 04:48:23,United States,Unknown
 Route,Lehi,Retail,,,2022-12-05,https://www.sltrib.com/news/2022/12/06/2-more-utah-tech-companies-each/,481.0,Unknown,2022-12-07 06:34:19,United States,Unknown
+Thinkific,Vancouver,Education,,,2022-12-05,https://techcouver.com/2022/12/05/rebound-thinkific-labs-layoffs/,22.0,IPO,2022-12-19 17:14:34,Canada,Unknown
 OYO,Gurugram,Travel,600,,2022-12-03,https://www.livemint.com/companies/news/oyo-to-layoff-600-execs-across-technology-teams-hire-250-for-sales-11670056711013.html,4000.0,Series F,2022-12-04 22:53:40,India,Unknown
 HealthifyMe,Bengaluru,Fitness,150,,2022-12-03,https://inc42.com/buzz/fitness-healthtech-startup-healthifyme-lays-off-150-employees/,100.0,Series C,2022-12-04 23:00:50,India,Unknown
 Bybit,Singapore,Crypto,,0.3,2022-12-03,https://cointelegraph.com/news/bybit-announces-second-round-of-layoffs-in-2022-to-survive-bear-market,,Unknown,2022-12-04 23:04:29,Singapore,Unknown
@@ -25,8 +104,12 @@ Lora DiCarlo,Bend,Consumer,,1.0,2022-12-02,https://techcrunch.com/2022/12/02/loo
 Carousell,Singapore,Retail,110,0.1,2022-12-01,https://www.straitstimes.com/singapore/jobs/carousell-cuts-110-jobs-to-rein-in-costs,372.0,Private Equity,2022-12-03 05:02:52,Singapore,Unknown
 Bizzabo,New York City,Marketing,100,0.37,2022-12-01,https://www.calcalistech.com/ctechnews/article/h1ajz9idj,194.0,Series E,2022-12-03 04:57:20,United States,Unknown
 BloomTech,SF Bay Area,Education,88,0.5,2022-12-01,https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/,,Unknown,2022-12-01 22:20:09,United States,Unknown
+Netlify,SF Bay Area,Product,48,0.16,2022-12-01,Internal memo,212.0,Series D,2022-12-08 17:03:17,United States,Unknown
+Springbig,Miami,Sales,37,0.23,2022-12-01,https://mjbizdaily.com/marijuana-software-firm-springbig-laying-off-nearly-25-percent-of-workforce/,32.0,IPO,2022-12-19 16:44:56,United States,Unknown
 Podium,Lehi,Support,,0.12,2022-12-01,https://www.businessinsider.com/podium-layoffs-customer-management-startup-2022-12,419.0,Series D,2022-12-01 22:19:10,United States,Unknown
-Strava,SF Bay Area,Fitness,,0.14,2022-12-01,https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSm6vCc5Qlyt_RGpugfuvSFlnMjj0C2jU6JwZhc2CNhEuet88bbcDwmRu07eocW0QI9YITWPhNcQ7UO/pubhtml,151.0,Series F,2022-12-04 22:56:18,United States,https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSm6vCc5Qlyt_RGpugfuvSFlnMjj0C2jU6JwZhc2CNhEuet88bbcDwmRu07eocW0QI9YITWPhNcQ7UO/pubhtml
+SQZ Biotech,Boston,Healthcare,,0.6,2022-12-01,https://www.fiercebiotech.com/biotech/sqz-ceo-exits-biotech-axes-60-staff-synlogic-succumbs-layoff-pressure,229.0,IPO,2022-12-11 06:21:01,United States,Unknown
+Strava,SF Bay Area,Fitness,,0.14,2022-12-01,https://www.bicycleretailer.com/industry-news/2022/12/05/layoffs-affect-about-15-staff-strava#.Y5Jcu-zMK8A,151.0,Series F,2022-12-04 22:56:18,United States,https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSm6vCc5Qlyt_RGpugfuvSFlnMjj0C2jU6JwZhc2CNhEuet88bbcDwmRu07eocW0QI9YITWPhNcQ7UO/pubhtml
+Synlogic,Boston,Healthcare,,0.25,2022-12-01,https://www.fiercebiotech.com/biotech/sqz-ceo-exits-biotech-axes-60-staff-synlogic-succumbs-layoff-pressure,321.0,IPO,2022-12-11 06:21:59,United States,Unknown
 Yapily,London,Finance,,,2022-12-01,https://www.linkedin.com/posts/yapily_a-message-from-our-founder-and-ceo-ensuring-activity-7004119711693066240-ZeUT/,69.0,Series A,2022-12-03 05:16:44,United Kingdom,Unknown
 DoorDash,SF Bay Area,Food,1250,0.06,2022-11-30,https://www.reuters.com/business/retail-consumer/doordash-cuts-1250-jobs-an-effort-rein-expenses-2022-11-30/,2500.0,IPO,2022-11-30 15:21:42,United States,https://docs.google.com/spreadsheets/d/1fsgEbzAo9Fgy-v7J_KGIaJxuzEBQfgBKC097tgvr_pY/edit#gid=383975823
 Kraken,SF Bay Area,Crypto,1100,0.3,2022-11-30,https://blog.kraken.com/post/16442/business-update/,134.0,Unknown,2022-11-30 16:37:32,United States,Unknown
@@ -37,9 +120,11 @@ Grin,Sacramento,Marketing,60,0.13,2022-11-30,https://www.theinformation.com/brie
 Ualá,Buenos Aires,Finance,53,0.03,2022-11-30,https://www.perfil.com/noticias/economia/empresa-uala-despidio-medio-centenar-trabajadores.phtml,544.0,Series D,2022-12-01 06:29:00,Argentina,Unknown
 Teachmint,Bengaluru,Education,45,0.05,2022-11-30,https://inc42.com/buzz/edtech-startup-teachmint-lays-off-45-employees/,118.0,Series B,2022-12-01 06:34:10,India,Unknown
 Etermax,Buenos Aires,Other,40,,2022-11-30,https://www.clarin.com/economia/despidos-reestructuracion-tecnologicas-empresas-achican-pasar-2023_0_uxSUuShZhQ.html,,Unknown,2022-12-01 06:33:17,Argentina,Unknown
+Thread,London,Retail,30,0.5,2022-11-30,https://www.drapersonline.com/news/ms-acquires-thread-intellectual-property,40.0,Acquired,2022-12-11 06:23:40,United Kingdom,Unknown
 Elastic,SF Bay Area,Data,,0.13,2022-11-30,https://www.elastic.co/blog/ceo-ash-kulkarni-email-to-elastic-employees,162.0,IPO,2022-12-01 06:23:46,United States,Unknown
 Motional,Boston,Unknown,,,2022-11-30,https://techcrunch.com/2022/12/01/hyundai-aptiv-backed-av-startup-motional-cuts-workforce/,,Unknown,2022-12-03 05:00:45,United States,Unknown
 Pinterest,SF Bay Area,Consumer,,,2022-11-30,https://www.theinformation.com/briefings/pinterest-cuts-recruiting-team-slows-hiring,1500.0,IPO,2022-12-01 22:22:03,United States,Unknown
+Venafi,Salt Lake City,Security,,,2022-11-30,https://www.axios.com/local/salt-lake-city/2022/12/15/utah-tech-layoffs-silicon-slopes-losing-workers,167.0,Acquired,2022-12-18 04:10:13,United States,Unknown
 Bitso,Mexico City,Crypto,100,,2022-11-29,https://portaldobitcoin.uol.com.br/corretora-de-criptomoedas-bitso-faz-segunda-rodada-de-demissoes-no-brasil-e-no-mexico/,378.0,Series C,2022-11-30 06:19:06,Mexico,Unknown
 Lyst,London,Retail,50,0.25,2022-11-29,https://techcrunch.com/2022/11/29/lyst-the-uk-fashion-marketplace-is-laying-off-25-of-staff/,144.0,Unknown,2022-11-30 06:03:36,United Kingdom,Unknown
 CoinJar,Melbourne,Crypto,10,0.2,2022-11-29,https://www.theaustralian.com.au/business/technology/melbourne-crypto-startup-coinjar-axes-20pc-of-workforce/news-story/485648b4b36a538ff7c00287adb57d5a,1.0,Unknown,2022-11-30 06:20:29,Australia,Unknown
@@ -60,6 +145,7 @@ ResearchGate,Berlin,Other,25,0.1,2022-11-28,https://www.linkedin.com/posts/ijad-
 BlockFi,New York City,Crypto,,1.0,2022-11-28,https://decrypt.co/115744/crypto-lender-blockfi-files-bankruptcy-ftx-contagion-claims-another,1000.0,Series E,2022-11-30 06:05:58,United States,Unknown
 FutureLearn,London,Education,,,2022-11-28,https://www.classcentral.com/report/futurelearn-layoffs/,50.0,Unknown,2022-11-30 06:11:06,United Kingdom,Unknown
 Inspectify,Seattle,Real Estate,,,2022-11-28,https://www.bizjournals.com/seattle/news/2022/11/28/inspectify-layoffs-seattle-real-estate-tech.html,11.0,Series A,2022-11-30 06:10:07,United States,Unknown
+Ledn,Toronto,Crypto,,,2022-11-28,https://www.theblock.co/post/190436/crypto-lender-ledn-lays-off-chief-commercial-officer-in-latest-industry-job-cuts,103.0,Series B,2022-12-19 16:49:15,Canada,Unknown
 NCX,SF Bay Area,Energy,,0.4,2022-11-28,https://ncx.com/learning-hub/an-update-from-ncx-co-founders-zack-parisa-and-max-nova/,78.0,Series B,2022-12-01 06:22:17,United States,Unknown
 Zilch,London,Finance,,,2022-11-26,https://www.standard.co.uk/business/london-fintech-unicorn-zilch-poised-to-begin-wave-of-layoffs-as-downturn-hits-buy-now-pay-later-sector-b1042587.html,389.0,Unknown,2022-11-29 04:26:19,United Kingdom,Unknown
 VerSe Innovation,Bengaluru,Media,150,0.05,2022-11-25,https://techcrunch.com/2022/11/28/verse-innovation-layoff-salary-cut/,1700.0,Series J,2022-11-28 18:02:57,India,Unknown
@@ -78,11 +164,14 @@ Flash Coffee,Singapore,Food,,,2022-11-22,https://www.businesstimes.com.sg/startu
 Natera,SF Bay Area,Healthcare,,,2022-11-22,https://www.bizjournals.com/sanjose/news/2022/11/22/peninsula-biotechs-cutting-dozens-of-jobs.html,809.0,IPO,2022-11-29 04:18:55,United States,Unknown
 Rapyd,Tel Aviv,Finance,,,2022-11-22,https://en.globes.co.il/en/article-israeli-fintech-co-rapyd-to-lay-off-dozens-1001430704,770.0,Unknown,2022-11-30 06:06:47,Israel,Unknown
 Kitopi,Dubai,Food,93,0.1,2022-11-21,https://www.arabianbusiness.com/jobs/dubai-unicorn-kitopi-sacks-93-head-office-staff-as-tech-industry-slumps,804.0,Series C,2022-11-23 04:32:47,United States,Unknown
+Devo,Boston,Security,,0.15,2022-11-21,https://tekdeeps.com/the-unicorn-devo-lays-off-15-of-its-global-team/,481.0,Series F,2022-12-13 20:08:51,United States,Unknown
 GloriFi,Dallas,Finance,,1.0,2022-11-21,https://www.wsj.com/articles/anti-woke-bank-glorifi-to-shut-down-11669051554,,Unknown,2022-11-25 04:08:51,United States,Unknown
+Jumia,Lagos,Retail,,,2022-11-21,https://nairametrics.com/2022/11/21/jumia-hints-at-layoffs-as-it-moves-to-cut-operating-costs/,1200.0,IPO,2022-12-21 17:00:12,Nigeria,Unknown
 Zomato,Gurugram,Food,100,0.04,2022-11-19,https://www.businesstoday.in/latest/economy/story/after-byjus-now-zomato-fires-employees-about-100-jobs-impacted-so-far-report-353435-2022-11-19,914.0,Series J,2022-11-20 00:05:57,India,Unknown
 Carvana,Phoenix,Transportation,1500,0.08,2022-11-18,https://www.wsj.com/articles/carvana-plans-to-lay-off-1-500-employees-cites-economic-concerns-11668793114,1600.0,IPO,2022-11-18 21:34:43,United States,Unknown
 Nuro,SF Bay Area,Transportation,300,0.2,2022-11-18,https://techcrunch.com/2022/11/18/autonomous-delivery-startup-nuro-lays-off-20-of-workforce/,2100.0,Series D,2022-11-18 21:35:34,United States,https://docs.google.com/spreadsheets/d/1hZo__wA86Uti6-Cwa6jP5AIsrh8KIB7CZax49gy3zVY/edit#gid=0
 Synthego,SF Bay Area,Healthcare,105,0.2,2022-11-18,https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2022,459.0,Series E,2022-11-29 04:18:07,United States,Unknown
+Capitolis,New York City,Finance,,0.25,2022-11-18,https://www.risk.net/derivatives/7955234/capitolis-cuts-workforce-by-25-as-bear-market-bites,281.0,Series D,2022-12-15 02:14:54,United States,Unknown
 Kavak,Sao Paulo,Transportation,,,2022-11-18,https://businessinsider.mx/kavak-despidos-compra-autos-crisis_negocios/,1600.0,Series E,2022-11-20 00:03:44,Brazil,Unknown
 Metaplex,Chicago,Crypto,,,2022-11-18,https://ambcrypto.com/solana-nft-protocol-metaplex-announces-layoffs-after-ftxs-collapse/,,Unknown,2022-11-20 00:01:42,United States,Unknown
 Ruangguru,Jakarta,Education,,,2022-11-18,https://www.techinasia.com/ruangguru-lays-hundreds-employees,205.0,Unknown,2022-11-21 05:53:59,Indonesia,Unknown
@@ -107,6 +196,7 @@ SimilarWeb,New York City,Other,120,0.1,2022-11-16,https://en.globes.co.il/en/art
 Salsify,Boston,Retail,90,0.11,2022-11-16,https://www.bizjournals.com/boston/inno/stories/news/2022/11/16/salsify-layoffs-2022.html,452.0,Series F,2022-11-17 00:32:56,United States,Unknown
 Lokalise,Dover,Other,76,0.23,2022-11-16,https://lokalise.com/blog/changes-at-lokalise/,56.0,Series B,2022-11-17 04:19:10,United States,Unknown
 Yotpo,New York City,Marketing,70,0.09,2022-11-16,https://www.calcalistech.com/ctechnews/article/hy00chefus,436.0,Unknown,2022-11-17 17:19:30,United States,Unknown
+Pear Therapeutics,Boston,Healthcare,59,0.22,2022-11-16,https://www.fiercebiotech.com/medtech/pear-therapeutics-trims-workforce-another-22,409.0,IPO,2022-12-11 06:17:19,United States,Unknown
 D2L,Waterloo,Education,,0.05,2022-11-16,https://www.d2l.com/newsroom/a-note-from-d2l-leadership/,168.0,IPO,2022-11-17 02:45:04,Canada,https://docs.google.com/spreadsheets/d/1ZznLpFRu-c3248tr3oyQRb15r0rW6anuLFipNPA27tk/edit#gid=27622024
 Dance,Berlin,Transportation,,0.16,2022-11-16,https://www.linkedin.com/feed/update/activity:6998722842930356225/,63.0,Unknown,2022-11-17 04:18:04,Germany,Unknown
 Homeward,Austin,Real Estate,,0.25,2022-11-16,https://www.linkedin.com/feed/update/urn:li:activity:6998764085748101121/,501.0,Unknown,2022-11-19 23:55:01,United States,Unknown
@@ -147,10 +237,12 @@ Cloudinary,SF Bay Area,Media,40,0.08,2022-11-14,"https://www.calcalistech.com/ct
 Nestcoin,Lagos,Crypto,30,,2022-11-14,https://techcrunch.com/2022/11/14/african-web3-startup-nestcoin-declares-it-held-its-assests-in-ftx-lays-off-employees/,6.0,Seed,2022-11-20 00:07:49,Nigeria,Unknown
 Shopee,Jakarta,Food,,,2022-11-14,https://www.straitstimes.com/business/sea-e-commerce-arm-shopee-cuts-jobs-in-third-round-of-layoffs-this-year-including-in-s-pore,,Unknown,2022-11-15 04:44:20,Indonesia,Unknown
 Veev,SF Bay Area,Real Estate,100,0.3,2022-11-11,https://www.calcalistech.com/ctechnews/article/hjkataiss,597.0,Series D,2022-11-12 02:57:34,United States,Unknown
+Chipax,Santiago,Finance,,,2022-11-11,https://www.linkedin.com/posts/chipax_talento-disponible-chipax-activity-7003341302985551872-45cE/,2.0,Seed,2022-12-14 17:59:53,Chile,https://docs.google.com/spreadsheets/d/1YjnAk6cMTE6DysuKXZ0Oo4pf9zuRmhBJtIIcwzbiVnQ/edit#gid=0
 Juniper,Atlanta,Marketing,,,2022-11-11,https://www.linkedin.com/posts/bill-furlong-0895451_juniper-announced-layoffs-today-impacting-activity-6997051846091554816-XniX/,,Acquired,2022-11-17 04:28:59,United States,Unknown
 Offerpad,Phoenix,Real Estate,,0.07,2022-11-11,https://www.bizjournals.com/phoenix/news/2022/11/11/offerpad-zillow-opendoor-redfin-arizona-layoffs.html,355.0,IPO,2022-11-17 02:43:48,United States,Unknown
 GoTo Group,Jakarta,Transportation,1300,0.12,2022-11-10,https://www.reuters.com/technology/indonesias-goto-cuts-1300-workers-or-12-total-employees-2022-11-18/,1300.0,IPO,2022-11-11 05:06:07,Indonesia,https://coda.io/@daanyal-kamaal/goto-alumni-list
 Juul,SF Bay Area,Consumer,400,0.3,2022-11-10,https://www.cnbc.com/2022/11/10/juul-strikes-financing-deal-plans-to-cut-jobs-to-dodge-bankruptcy.html,1500.0,Unknown,2022-11-10 22:01:09,United States,Unknown
+Blend,SF Bay Area,Finance,100,0.06,2022-11-10,https://www.housingwire.com/articles/blend-reports-133-98-million-loss-in-q3-layoffs-of-100-positions/,665.0,IPO,2022-12-09 05:11:03,United States,Unknown
 InfluxData,SF Bay Area,Unknown,65,0.27,2022-11-10,Internal memo,119.0,Series D,2022-11-12 04:19:56,United States,Unknown
 Coinbase,SF Bay Area,Crypto,60,,2022-11-10,https://www.theinformation.com/articles/coinbase-is-cutting-more-jobs,549.0,IPO,2022-11-10 19:40:04,United States,Unknown
 SoundHound,SF Bay Area,Other,45,0.1,2022-11-10,https://techcrunch.com/2022/11/10/soundhound-layoffs/,326.0,IPO,2022-11-10 16:28:16,United States,Unknown
@@ -248,8 +340,8 @@ Spreetail,Austin,Retail,,,2022-10-27,https://www.wearespreetail.com/blog/a-messa
 MindBody,San Luis Obispo,Fitness,400,0.15,2022-10-26,https://www.sanluisobispo.com/news/business/article267890657.html,114.0,IPO,2022-10-26 23:22:40,United States,Unknown
 Zillow,Seattle,Real Estate,300,0.05,2022-10-26,https://techcrunch.com/2022/10/26/zillow-layoff-300-employees/,97.0,IPO,2022-10-26 17:36:15,United States,Unknown
 Cybereason,Boston,Security,200,0.17,2022-10-26,https://www.calcalistech.com/ctechnews/article/sjspj00uvs,750.0,Series F,2022-10-26 15:10:46,United States,Unknown
+Argo AI,Pittsburgh,Transportation,173,1.0,2022-10-26,https://www.autonews.com/mobility-report/argo-ai-lay-173-startup-folds,3600.0,Unknown,2022-10-26 23:23:28,United States,Unknown
 GoFundMe,SF Bay Area,Finance,94,0.12,2022-10-26,https://www.gofundme.com/c/announcement,,Series A,2022-10-26 23:13:47,United States,Unknown
-Argo AI,Pittsburgh,Transportation,,1.0,2022-10-26,https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/,3600.0,Unknown,2022-10-26 23:23:28,United States,Unknown
 Fundbox,SF Bay Area,Finance,150,0.42,2022-10-25,https://www.calcalistech.com/ctechnews/article/sypou4svi,553.0,Series D,2022-10-25 15:14:28,United States,Unknown
 Embroker,SF Bay Area,Finance,30,0.12,2022-10-25,https://www.theinsurer.com/news/insurtech-embroker-lays-off-12-of-global-workforce/25922.article,142.0,Series C,2022-10-26 23:20:50,United States,Unknown
 Vee,Tel Aviv,HR,17,0.5,2022-10-25,https://www.calcalistech.com/ctechnews/article/hju1ylrnj,15.0,Seed,2022-10-25 15:16:16,Israel,Unknown
@@ -433,6 +525,7 @@ Apartment List,SF Bay Area,Real Estate,29,0.1,2022-08-31,https://www.linkedin.co
 Artnight,Berlin,Retail,26,0.36,2022-08-31,https://www.businessinsider.de/gruenderszene/business/artnight-entlassungen/,,Unknown,2022-09-01 17:11:12,Germany,Unknown
 Snagajob,Richmond,HR,,,2022-08-31,https://richmondbizsense.com/2022/08/31/snagajob-lays-off-dozens-in-richmond/,221.0,Unknown,2022-09-15 04:08:14,United States,Unknown
 The Wing,New York City,Real Estate,,1.0,2022-08-31,https://www.theinformation.com/briefings/the-wing-a-controversial-co-working-startup-shuts-down,117.0,Series C,2022-08-31 21:35:28,United States,Unknown
+Viamo,Accra,Other,,,2022-08-31,https://techcabal.com/2022/08/31/viamo-lays-off-employees/,,Unknown,2022-12-21 17:02:56,Ghana,Unknown
 Electric,New York City,Other,81,,2022-08-30,https://www.electric.ai/blog/an-open-letter-from-the-ceo,212.0,Series D,2022-09-30 22:53:41,United States,Unknown
 Immersive Labs,Bristol,Security,38,0.1,2022-08-30,https://www.uktech.news/cybersecurity/immersive-labs-jobs-cuts-20220830,123.0,Series C,2022-09-01 02:37:56,United Kingdom,Unknown
 Nate,New York City,Retail,30,,2022-08-30,https://www.theinformation.com/briefings/shopping-app-nate-making-fresh-round-of-job-cuts,47.0,Series A,2022-08-30 23:16:29,United States,Unknown
@@ -680,7 +773,7 @@ Wave,Dakar,Finance,300,0.15,2022-07-13,https://techcrunch.com/2022/07/13/wave-a-
 Tonal,SF Bay Area,Fitness,262,0.35000000000000003,2022-07-13,https://www.cnbc.com/2022/07/13/peloton-rival-tonal-cuts-jobs-ahead-of-possible-recession-ipo.html,450.0,Series E,2022-07-13 15:55:52,United States,https://docs.google.com/spreadsheets/d/1cxdOcme0IomWIlR767xTsefH6QJd-sjrxLWssp38EH8/edit
 Fabric,New York City,Logistics,120,0.4,2022-07-13,https://techcrunch.com/2022/07/13/fabric-lays-off-40-of-staff-as-it-shifts-strategy-from-service-to-platform/,336.0,Series C,2022-07-13 14:52:58,United States,Unknown
 Bryter,Berlin,Product,100,0.3,2022-07-13,https://twitter.com/pierre_vannier/status/1547311744837685249,89.0,Series B,2022-07-14 19:31:41,Germany,Unknown
-ChowNow,Los Angeles,Food,100,,2022-07-13,https://techcrunch.com/2022/07/13/signaling-tough-times-ahead-chownow-lays-off-employees/,64.0,Series C,2022-07-13 20:18:14,United States,Unknown
+ChowNow,Los Angeles,Food,100,0.2,2022-07-13,https://techcrunch.com/2022/07/13/signaling-tough-times-ahead-chownow-lays-off-employees/,64.0,Series C,2022-07-13 20:18:14,United States,Unknown
 Involves,Florianópolis,Retail,70,0.18,2022-07-13,https://www.baguete.com.br/noticias/13/07/2022/involves-demite-18,23.0,Unknown,2022-07-20 03:40:55,Brazil,Unknown
 100 Thieves,Los Angeles,Consumer,12,,2022-07-13,https://www.dexerto.com/esports/100-thieves-layoffs-social-content-teams-1870915/,120.0,Series C,2022-07-18 18:56:26,United States,Unknown
 Nuro,SF Bay Area,Transportation,7,,2022-07-13,https://www.therobotreport.com/nuro-lays-off-employees-in-texas-california-and-arizona/,2100.0,Series D,2022-07-16 13:57:13,United States,Unknown
